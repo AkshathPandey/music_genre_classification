@@ -1,0 +1,1 @@
+# music_genre_classification project i have created a machine learning mode using KNN,Decision Tree, Random forrest regression, logistic Regressiona and SVC. Using i can classify the muusic and compare between the accuracy of the different models.
